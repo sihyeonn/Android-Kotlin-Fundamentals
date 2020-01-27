@@ -3,13 +3,16 @@
 ## Prerequisites
 - [ ] Kotlin Bootcamp for Programmers ([Link](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011))
 
-## Courses ([Link](https://codelabs.developers.google.com/android-kotlin-fundamentals/))
+## Courses
 ### 1. Build your first app
 - [x] 1.0 Install Android Studio
 - [x] 1.1 Get started 
 - [x] 1.2 Basic app anatomy
 - [x] 1.3 Image resources and compatibility
-- [ ] 1.4 Learn to help yourself
+- [x] 1.4 Learn to help yourself
+  - [material.io](https://material.io/)
+  - [Android code samples](https://developer.android.com/samples/index.html?hl=en)
+  - [Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words)
 ### 2. Layouts
 - [ ] 2.1 Linear layout using the Layout Editor
 - [ ] 2.2 Add user interactivity
@@ -24,9 +27,9 @@
 - [ ] 4.2 Complex lifecycle situations
 ### 5. Architecture components
 - [ ] 5.1 ViewModel and ViewModelProvider
-- [ ] 5.2: LiveData and LiveData observers
-- [ ] 5.3: DataBinding with ViewModel and LiveData
-- [ ] 5.4: LiveData transformations
+- [ ] 5.2 LiveData and LiveData observers
+- [ ] 5.3 DataBinding with ViewModel and LiveData
+- [ ] 5.4 LiveData transformations
 ### 6. Room database and coroutines
 - [ ] 6.1 Create a Room database
 - [ ] 6.2 Coroutines and Room
@@ -45,6 +48,6 @@
 - [ ] 9.1 Repository
 - [ ] 9.2 WorkManager
 ### 10. Designing for everyone
-- [ ] 10.1: Styles and themes
+- [ ] 10.1 Styles and themes
 - [ ] 10.2 Material Design, dimensions, and colors
 - [ ] 10.3 Design for everyone
