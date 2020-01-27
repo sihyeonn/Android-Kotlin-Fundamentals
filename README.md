@@ -8,7 +8,7 @@
 - [x] 1.0 Install Android Studio
 - [x] 1.1 Get started 
 - [x] 1.2 Basic app anatomy
-- [ ] 1.3 Image resources and compatibility
+- [x] 1.3 Image resources and compatibility
 - [ ] 1.4 Learn to help yourself
 ### 2. Layouts
 - [ ] 2.1 Linear layout using the Layout Editor
