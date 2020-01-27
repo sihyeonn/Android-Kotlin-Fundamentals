@@ -7,7 +7,7 @@
 ### 1. Build your first app
 - [x] 1.0 Install Android Studio
 - [x] 1.1 Get started 
-- [ ] 1.2 Basic app anatomy
+- [x] 1.2 Basic app anatomy
 - [ ] 1.3 Image resources and compatibility
 - [ ] 1.4 Learn to help yourself
 ### 2. Layouts
