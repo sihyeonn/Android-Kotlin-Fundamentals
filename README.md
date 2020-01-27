@@ -3,10 +3,10 @@
 ## Prerequisites
 - [ ] Kotlin Bootcamp for Programmers ([Link](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011))
 
-## Courses
+## Courses ([Link](https://codelabs.developers.google.com/android-kotlin-fundamentals/))
 ### 1. Build your first app
-- [ ] 1.0 Install Android Studio
-- [ ] 1.1 Get started
+- [x] 1.0 Install Android Studio
+- [x] 1.1 Get started 
 - [ ] 1.2 Basic app anatomy
 - [ ] 1.3 Image resources and compatibility
 - [ ] 1.4 Learn to help yourself
