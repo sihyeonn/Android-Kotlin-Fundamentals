@@ -14,7 +14,7 @@
   - [Android code samples](https://developer.android.com/samples/index.html?hl=en)
   - [Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words)
 ### 2. Layouts
-- [ ] 2.1 Linear layout using the Layout Editor
+- [x] 2.1 Linear layout using the Layout Editor
 - [ ] 2.2 Add user interactivity
 - [ ] 2.3 Constraint layout using the Layout Editor
 - [ ] 2.4 Data-binding basics
