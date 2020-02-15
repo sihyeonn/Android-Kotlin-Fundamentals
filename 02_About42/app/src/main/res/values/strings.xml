@@ -4,4 +4,6 @@
     <string name="yellow_star">Yellow star</string>
     <string name="bio">42 is the first <b>completely free</b> computer training course, <b>open to all without qualification requirements and accessible from the age of 18</b>. Its pedagogy is based on <b>peer-to-peer learning</b> : a participative operation, without courses, without teacher, which allows students to unleash all their creativity through project-based learning. 42 was founded at the initiative of Xavier Niel in 2013 when the digital industry in France suffered from a significant shortage of IT developers. To train the best talents of tomorrow in large numbers, the establishment provides the best infrastructure in innovative and modern locations in Paris and Fremont (Silicon Valley). And recently, 42 has launched internationally with <b>21 campuses</b> for 2020 including 3 in France, Belgium, Morocco, Finland, Netherlands, Russia, Brazil, Indonesia, Armenia, Japan, Colombia, Spain, Canada and Italy.\n<b>42, is our answer to what the school of tomorrow should be.</b></string>
     <string name="image_load_error">Image loading error</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
 </resources>
