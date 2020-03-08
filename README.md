@@ -17,7 +17,7 @@
 - [x] 2.1 Linear layout using the Layout Editor
 - [x] 2.2 Add user interactivity
 - [x] 2.3 Constraint layout using the Layout Editor
-- [ ] 2.4 Data-binding basics
+- [x] 2.4 Data-binding basics
 ### 3. Navigation
 - [ ] 3.1 Create a fragment
 - [ ] 3.2 Define navigation paths
